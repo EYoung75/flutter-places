@@ -5,7 +5,7 @@
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>App needs permission to choose photo from gallery</string>
 	<key>NSCameraUsageDescription</key>
-	<sring>App needs permission to take a picture</string>
+	<string>App needs permission to take a picture</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
